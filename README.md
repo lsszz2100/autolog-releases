@@ -1,2 +1,4 @@
-# naver-blog-studio-releases
-Naver Blog Studio 설치 파일 배포 (자동 업데이트용 Releases)
+# AutoLog Releases
+
+오토로그(AutoLog) 설치 파일과 자동 업데이트 묶음을 배포하는 저장소입니다.
+프로그램이 이 저장소의 최신 릴리스를 확인해 자동으로 업데이트합니다.
